@@ -1,4 +1,4 @@
-# Maria Tukaylo
+# Maria Tukailo
 
 📍 **Minsk, Belarus**
 
