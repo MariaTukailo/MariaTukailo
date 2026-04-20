@@ -56,3 +56,10 @@ Responsible, fast learner, enjoy solving non-trivial problems.
 | **Testing** | JUnit, Mockito, Unit & Integration Testing |
 | **Tools** | Docker, Docker Compose, Git, Railway |
 | **Other Languages & Frameworks** | C (data structures, algorithms), C++ (OOP, STL), Qt, React (basics) |
+
+---
+
+### 📫 Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pxpdpfpfo)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tukajlomaria6@gmail.com)
