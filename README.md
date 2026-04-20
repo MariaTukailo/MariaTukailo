@@ -42,3 +42,17 @@ Responsible, fast learner, enjoy solving non-trivial problems.
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📌 Core Competencies
+
+| Area | Skills |
+|------|--------|
+| **Java** | OOP, SOLID, Collections, Concurrency, Stream API, Optional |
+| **Spring** | Boot, MVC, Data JPA, AOP, Transaction Management |
+| **Database** | PostgreSQL, Hibernate, JPQL, SQL (JOIN, GROUP BY) |
+| **Practices** | REST API design, N+1 problem awareness, Exception handling |
+| **Testing** | JUnit, Mockito, Unit & Integration Testing |
+| **Tools** | Docker, Docker Compose, Git, Railway |
+| **Other Languages & Frameworks** | C (data structures, algorithms), C++ (OOP, STL), Qt, React (basics) |
