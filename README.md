@@ -59,11 +59,9 @@ Responsible, fast learner, enjoy solving non-trivial problems.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Pet Projects (Java)
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Flower Shop](https://github.com/MariaTukailo/FlowerShop)** | E-commerce REST API for a flower store. Deployed on Railway. Includes JPA relationships, N+1 fix via @EntityGraph, AOP logging, global exception handling. | Java 17, Spring Boot 3, PostgreSQL, Docker |
+- **[Flower Shop](https://github.com/MariaTukailo/FlowerShop)** — REST API backend for a flower store
 
 ---
 
