@@ -7,7 +7,7 @@
 ### 🎓 Education
 
 **University:** BSUIR (Belarusian State University of Informatics and Radioelectronics)  
-**Faculty:** Computer Systems and Networks   
+**Faculty:** Computer Systems and Networks  
 **Specialty:** Computer Engineering  
 **Year:** 2nd year
 
@@ -16,7 +16,7 @@
 ### 💡 About Me
 
 Focused on growing as a Java backend developer. I value clean code, attention to detail, and continuous learning.  
-Responsible, fast learner, enjoy solving non-trivial problems. 
+Responsible, fast learner, enjoy solving non-trivial problems.
 
 ---
 
@@ -56,6 +56,14 @@ Responsible, fast learner, enjoy solving non-trivial problems.
 | **Testing** | JUnit, Mockito, Unit & Integration Testing |
 | **Tools** | Docker, Docker Compose, Git, Railway |
 | **Other Languages & Frameworks** | C (data structures, algorithms), C++ (OOP, STL), Qt, React (basics) |
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Flower Shop](https://github.com/MariaTukailo/FlowerShop)** | E-commerce REST API for a flower store. Deployed on Railway. Includes JPA relationships, N+1 fix via @EntityGraph, AOP logging, global exception handling. | Java 17, Spring Boot 3, PostgreSQL, Docker |
 
 ---
 
