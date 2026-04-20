@@ -1,8 +1,6 @@
 # Maria Tukaylo
 
 📍 **Minsk, Belarus**
-
----
 ---
 
 ### 🎓 Education
