@@ -7,7 +7,7 @@
 ### 🎓 Education
 
 **University:** BSUIR (Belarusian State University of Informatics and Radioelectronics)  
-**Faculty:** Faculty of Computer Systems and Networks (FKSiS)  
+**Faculty:** Computer Systems and Networks   
 **Specialty:** Computer Engineering  
 **Year:** 2nd year
 
