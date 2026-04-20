@@ -9,6 +9,7 @@
 **Faculty:** Faculty of Computer Systems and Networks (FKSiS)  
 **Specialty:** Computer Engineering  
 **Year:** 2nd year
+
 ---
 
 ### 💡 About Me
