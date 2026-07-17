@@ -53,8 +53,8 @@ Spring Boot • Java • PostgreSQL • REST API • Hibernate • Docker
 ---
 ### Other Projects
 
-- **[Projects in C](https://github.com/MariaTukailo/projects-in-C-language)** — Laboratory works and practice tasks in C.
-- **[Projects in C++](https://github.com/MariaTukailo/projects-in-Cpp-language)** — Laboratory works, coursework, and research projects in C++ with Qt.
+- **[Projects in C](https://github.com/MariaTukailo/projects-in-C-language)** 
+- **[Projects in C++](https://github.com/MariaTukailo/projects-in-Cpp-language)**
 
 ###  Contacts
 
