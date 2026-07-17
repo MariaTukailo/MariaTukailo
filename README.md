@@ -1,10 +1,10 @@
 # Maria Tukailo
 
-📍 **Minsk, Belarus**
+ **Minsk, Belarus**
 
 ---
 
-### 🎓 Education
+### Education
 
 **University:** BSUIR (Belarusian State University of Informatics and Radioelectronics)  
 **Faculty:** Computer Systems and Networks  
@@ -13,14 +13,14 @@
 
 ---
 
-### 💡 About Me
+###  About Me
 
 Focused on growing as a Java backend developer. I value clean code, attention to detail, and continuous learning.  
 Responsible, fast learner, enjoy solving non-trivial problems.
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 **Languages & Frameworks**
 
@@ -45,7 +45,7 @@ Responsible, fast learner, enjoy solving non-trivial problems.
 
 ---
 
-### 📌 Core Competencies
+###  Core Competencies
 
 | Area | Skills |
 |------|--------|
@@ -59,7 +59,7 @@ Responsible, fast learner, enjoy solving non-trivial problems.
 
 ---
 
-### 🚀 Pet Projects (Java)
+###  Pet Projects (Java)
 
 - **[Flower Shop](https://github.com/MariaTukailo/FlowerShop)** — REST API backend for a flower store
 
