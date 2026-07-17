@@ -51,6 +51,10 @@ Spring Boot • Java • PostgreSQL • REST API • Hibernate • Docker
 - **[URL Shortener](https://github.com/MariaTukailo/URL-shortener)** — A link shortener service with JWT authentication and admin panel. Spring Boot, Spring Security, PostgreSQL, Docker.
 
 ---
+### Other Projects
+
+- **[Projects in C](https://github.com/MariaTukailo/projects-in-C-language)** — Laboratory works and practice tasks in C.
+- **[Projects in C++](https://github.com/MariaTukailo/projects-in-Cpp-language)** — Laboratory works, coursework, and research projects in C++ with Qt.
 
 ###  Contacts
 
