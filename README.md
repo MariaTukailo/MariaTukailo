@@ -47,9 +47,8 @@ Spring Boot • Java • PostgreSQL • REST API • Hibernate • Docker
 
 ###  Pet Projects (Java)
 
-- **[Flower Shop](https://github.com/MariaTukailo/FlowerShop)** — REST API backend for a flower store. Spring Boot, JPA, PostgreSQL, Docker, Railway.
-- **[URL Shortener](https://github.com/MariaTukailo/URL-shortener)** — A link shortener service with JWT authentication and admin panel. Spring Boot, Spring Security, PostgreSQL, Docker.
-
+- **[Flower Shop](https://github.com/MariaTukailo/FlowerShop)** — REST API backend for a flower store..
+- **[URL Shortener](https://github.com/MariaTukailo/URL-shortener)** + **[Frontend](https://github.com/MariaTukailo/url-shortener-frontend)** — A link shortener service.
 ---
 ### Other Projects
 
