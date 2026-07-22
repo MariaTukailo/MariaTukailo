@@ -55,9 +55,13 @@ Spring Boot • Java • PostgreSQL • REST API • Hibernate • Docker
 - **[Projects in C](https://github.com/MariaTukailo/projects-in-C-language)** 
 - **[Projects in C++](https://github.com/MariaTukailo/projects-in-Cpp-language)**
 
+---
+
 ### Сollaborative Projects
 
 - **[Smart home](https://github.com/SmartHome-team/smart_home)** with **[kogorodnik968-sketch](https://github.com/kogorodnik968-sketch)**
+
+---
 
 ###  Contacts
 
